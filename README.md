@@ -5,8 +5,7 @@
 
 
   <p align="center">
-      <a href="https://wiz64.com" target="_blank">
-      Website (wiz64.com)</a> | <a href="https://www.linkedin.com/in/sumit-k-sharma-7b9a4025b/"><img src="https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/sumit-k-sharma-7b9a4025b/"></a> | <a href="https://youtube.com/wiz64">Youtube [100K+ Views]</a><br>
+      <a href="https://www.linkedin.com/in/sumit-k-sharma-7b9a4025b/"><img src="https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/sumit-k-sharma-7b9a4025b/"></a> | <a href="https://youtube.com/wiz64">Youtube [100K+ Views]</a><br>
       
 </p>
 </p>
